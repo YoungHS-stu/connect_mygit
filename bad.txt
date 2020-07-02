@@ -3,4 +3,4 @@ bad good
 mal
 mala edit hot fix
 
-another things by hot_fix
+another things by master
